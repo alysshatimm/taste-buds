@@ -23,11 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dac9e04-410d-4fce-bbaa-da5807c67234" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backEndApi/src/main/java/com/tastebuds/webapp/IngredientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backEndApi/src/main/java/com/tastebuds/webapp/Ingredient.java" beforeDir="false" afterPath="$PROJECT_DIR$/backEndApi/src/main/java/com/tastebuds/webapp/resources/Ingredient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backEndApi/src/main/java/com/tastebuds/webapp/Pairings.java" beforeDir="false" afterPath="$PROJECT_DIR$/backEndApi/src/main/java/com/tastebuds/webapp/resources/Pairings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backEndApi/src/test/java/com/tastebuds/webapp/JPAWiringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backEndApi/src/test/java/com/tastebuds/webapp/JPAWiringTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +72,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backEndApi" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -89,17 +93,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WebAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="web-app.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.tastebuds.webapp.WebAppApplication" />
@@ -117,6 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606149992946</updated>
       <workItem from="1606149994240" duration="3183000" />
+      <workItem from="1612824964150" duration="670000" />
     </task>
     <servers />
   </component>
@@ -133,6 +127,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2581" y="104" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606150466157">
@@ -147,6 +142,10 @@
       <screen x="1920" y="-219" width="1920" height="1040" />
     </state>
     <state x="2657" y="197" width="445" height="214" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.-219.1920.1040@1920.-219.1920.1040" timestamp="1606150380321" />
+    <state x="3143" y="426" key="FileChooserDialogImpl" timestamp="1612825638304">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3143" y="426" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612825638304" />
     <state x="2418" y="-54" key="SettingsEditor" timestamp="1606156171150">
       <screen x="1920" y="-219" width="1920" height="1040" />
     </state>
